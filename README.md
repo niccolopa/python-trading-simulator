@@ -1,4 +1,4 @@
-# python-trading-simulator
+# Python-Trading-Simulator
 *From Retail Trading to Python: My First Vectorial Backtester*
 
 Hello! I am Niccolò, a first-year BSc student in Economics and Finance with Data Science.
