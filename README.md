@@ -2,7 +2,7 @@
 *From Retail Trading to Python: My First Vectorial Backtester*
 
 Hello! I am Niccolò, a first-year BSc student in Economics and Finance with Data Science.
-Before starting university I was a retail trader with some prop firms (swing and intraday). Instead of waiting for advanced programming courses to start, I decided to teach myself Python to answer a question I'd been asking myself for a while: "_Do my discretionary graphical strategies really work when tested mathematically on 10 years of historical data?_"
+Before university I was a retail trader with some prop firms (swing and intraday). Instead of waiting for advanced programming courses to start, I decided to teach myself basics of Python to answer a question I'd been asking myself for a while: "_Do my discretionary graphical strategies really work when tested mathematically on 10 years of historical data?_"
 This repository contains my very first Python project: a hybrid (vectorial + event-driven) backtest engine built entirely from scratch with pandas and numpy to test a "Pullback" logic on the S&P 500 index.
 
 ***
