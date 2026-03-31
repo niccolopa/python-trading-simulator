@@ -1,4 +1,4 @@
-# Python-Trading-Simulator
+# Python-Trading-Simulator_v1
 *From Retail Trading to Python: My First Vectorial Backtester*
 
 Hello! I am Niccolò, a first-year BSc student in Economics and Finance with Data Science.
@@ -40,7 +40,7 @@ At first glance, doing 30% in 10 years against 200% for the S&P 500 seems like a
 
 ***
 
-## Future Developments (Version 3)
+## Future Developments (Version 2)
 As my first introduction to Python, i think that there is a lot of space for improvement. As I progress with my universitary studies in Data Science, I plan to implement:
 - **Real-world peak recognition**: Program an algorithm capable of identifying maxima and minima to plot true Fibonacci retracements, replacing EMAs.
 - **Multi-Timeframe Analysis**: Analyze 4h and 1h candlesticks to simulate true intraday/swing operation, to increasing the number of operations.
